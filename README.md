@@ -1,6 +1,6 @@
 ### Hi there, this is Khawla! 
 
-- ✨ I'm a Product Manager & a [Certified Ethereum developer](https://courses.consensys.net/certificates/lmg4nbqwrk).
+- ✨ I'm a Product Manager & a [Certified Ethereum Developer](https://courses.consensys.net/certificates/lmg4nbqwrk).
 - 🌱 I'm passionate about all things related to tech, product, & community building.
 - 👩‍💻 Tech stack: Solidity, Hardhat, ReactJS, NodeJS, ExpressJS, MySQL.
 - 👯 Communities: [GDG Sharjah](https://gdg.community.dev/gdg-sharjah/), [Women Tech Makers](https://developers.google.com/womentechmakers), [Token Engineering Academy](https://tokenengineering.net/), [Arabs in Blockchain](https://www.arabsinblockchain.com/).
